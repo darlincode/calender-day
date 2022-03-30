@@ -25,7 +25,7 @@ code {
 }
 
 .background-color {
-  background-color: cadetblue;
+  background-color: rgb(16, 160, 165);
 }
 
 .padding-l-5{
@@ -39,8 +39,8 @@ code {
 .flexContainer {
   max-width: 100%;
   width: 100%;
-  border-top: 1px solid #989898;
-  border-left: 1px solid #989898;
+  border-top: 1px solid #bb0101;
+  border-left: 1px solid #790000;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -49,14 +49,14 @@ code {
 .flexColumn {
   display: flex;
   width: 14.2857142857%;
-  border-bottom: 1px solid #989898;
+  border-bottom: 1px solid #520000;
   border-right: 1px solid #989898;
   flex: 0 1 auto;
   justify-content: center;
 }
 
 .day.inactive {
-  background-color: #f8f8f8;
+  background-color: #ff00dd;
   color: #ccc;
 }
 
@@ -70,7 +70,7 @@ code {
 }
 
 .day.today {
-  background-color: #fcf8e3;
+  background-color: #dfba00;
 }
 
 .footer {
