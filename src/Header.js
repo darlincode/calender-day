@@ -7,7 +7,7 @@ class Header extends React.Component{
             <div>
                 <Navbar bg="light" expand="lg">
                   <Container>
-                    <Navbar.Brand href="#home">Evant Calender</Navbar.Brand>
+                    <Navbar.Brand href="#home">Event Calender</Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                       <Nav className="me-auto">
